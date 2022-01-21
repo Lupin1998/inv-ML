@@ -1,5 +1,5 @@
 
-# Invertible-Manifold-Learning-for-Dimension-Reduction (inv-ML)
+# Invertible-Manifold-Learning-for-Dimension-Reduction ([inv-ML](https://arxiv.org/abs/2010.04012))
 
 ## Introduction
 
@@ -66,13 +66,15 @@ Visualization results will be saved in the folder defined in run_test.sh, defaul
 
 ## Citation
 
-Citation of the implementation of the MLDL paper.
+Citation of Our paper.
 
 ```
-@article{Li-MLDL-2020,
-  title   = {Markov-Lipschitz Deep Learning},
-  author  = {Stan Z Li and Zelin Zang and Lirong Wu},
-  journal = {arXiv preprint arXiv:2006.08256},
-  year    = {2020}
+@InProceedings{li2021invertible,
+  title    = {Invertible Manifold Learning for Dimension Reduction},
+  author   = {Siyuan Li and Haitao Lin and Zelin Zang and Lirong Wu and Jun Xia and Stan Z. Li},
+  journal  = {arXiv preprint arXiv:2006.08256},
+  booktitle= {Joint European Conference on Machine Learning and Knowledge Discovery in Databases",
+  pages    = {713--728},
+  year     = {2021}
 }
 ```
